@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\obj\Debug\netcoreapp3.1\GAMESFLIX.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\obj\Debug\netcoreapp3.1\GAMESFLIX.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\obj\Debug\netcoreapp3.1\GAMESFLIX.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\obj\Debug\netcoreapp3.1\GAMESFLIX.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\bin\Debug\netcoreapp3.1\GAMESFLIX.exe
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\bin\Debug\netcoreapp3.1\GAMESFLIX.deps.json
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\bin\Debug\netcoreapp3.1\GAMESFLIX.runtimeconfig.json
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\bin\Debug\netcoreapp3.1\GAMESFLIX.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\bin\Debug\netcoreapp3.1\GAMESFLIX.dll
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\bin\Debug\netcoreapp3.1\GAMESFLIX.pdb
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\obj\Debug\netcoreapp3.1\GAMESFLIX.dll
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\obj\Debug\netcoreapp3.1\GAMESFLIX.pdb
+C:\Users\Lucas\Desktop\dio.netLUCAS\projetobaselucas\GAMESFLIX\obj\Debug\netcoreapp3.1\GAMESFLIX.genruntimeconfig.cache
